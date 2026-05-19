@@ -1,0 +1,270 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Glow Trends Malaysia</title>
+
+    <link rel="stylesheet" href="css/style.css">
+
+    <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+</head>
+
+<body>
+
+    <header class="hero">
+        <p class="tagline">Beauty • Skincare • Malaysia</p>
+
+        <h1>Glow Trends Malaysia</h1>
+
+        <p class="intro">
+            This visualisation explores skincare behaviour, shopping patterns, product preferences,
+            and beauty spending trends among consumers in Malaysia.
+        </p>
+
+        <p class="intro-small">
+            It highlights how skin concerns, purchase channels, product categories,
+            and regional spending patterns shape the Malaysian beauty market.
+        </p>
+
+        <div class="control-panel">
+            <button id="themeToggle">Dark Mode</button>
+            <button onclick="scrollToSection('chart5')">View Map</button>
+            <button onclick="scrollToSection('chart10')">View Price Analysis</button>
+            <button onclick="scrollToSection('metadata')">View Metadata</button>
+        </div>
+    </header>
+
+    <section class="story-box">
+        <h2>Visualisation Purpose</h2>
+
+        <p class="source-text">
+            Glow Trends Malaysia investigates how Malaysian consumers engage with skincare
+            and beauty products. The visualisation focuses on common skin concerns,
+            shopping channels, product preferences, regional spending, and product pricing.
+        </p>
+
+        <p class="source-text">
+            The target audience includes Malaysian skincare consumers, beauty retailers,
+            and marketers who want to understand consumer behaviour across categories
+            and regions.
+        </p>
+    </section>
+
+    <section>
+        <h2>1. What Skin Concerns Are Most Common?</h2>
+
+        <p class="desc">
+            This chart shows the most common skin concerns among Malaysian skincare consumers.
+        </p>
+
+        <div class="chart-box wide-box" id="chart1"></div>
+
+        <p class="insight">
+            Acne, pigmentation, dryness, and sensitivity appear as important skincare concerns.
+            This suggests demand for products linked to oil control, brightening, hydration,
+            and skin barrier repair.
+        </p>
+    </section>
+
+    <div class="two-column">
+
+        <section>
+            <h2>2. Where Do Consumers Buy Skincare?</h2>
+
+            <p class="desc">
+                This donut chart shows where Malaysians commonly buy skincare products.
+            </p>
+
+            <div class="chart-box" id="chart2"></div>
+
+            <p class="insight">
+                Purchase channels show how skincare access is shaped by online platforms
+                and pharmacy retailers. This helps explain the role of convenience and trust.
+            </p>
+        </section>
+
+        <section>
+            <h2>3. Do Higher Prices Mean Better Ratings?</h2>
+
+            <p class="desc">
+                This scatter plot compares product prices with customer ratings.
+            </p>
+
+            <div class="chart-box" id="chart3"></div>
+
+            <p class="insight">
+                Click a product category in the legend to focus the scatter plot.
+                This helps compare whether higher-priced products are strongly linked
+                to better ratings.
+            </p>
+        </section>
+
+    </div>
+
+    <section>
+        <h2>4. How Do Skin Concerns Differ by Region?</h2>
+
+        <p class="desc">
+            This heatmap shows how skin concerns differ across Malaysian regions.
+        </p>
+
+        <div class="chart-box wide-box" id="chart4"></div>
+
+        <p class="insight">
+            The heatmap supports regional comparison by showing where certain concerns
+            appear more frequently. This helps connect skincare demand with location.
+        </p>
+    </section>
+
+    <div class="two-column">
+
+        <section>
+            <h2>5. Regional Skincare Spending Map</h2>
+
+            <p class="desc">
+                This proportional symbol map shows average skincare spending across Malaysia.
+            </p>
+
+            <div class="chart-box" id="chart5"></div>
+
+            <p class="insight">
+                Regional spending patterns suggest that skincare behaviour is not uniform.
+                Higher spending regions may reflect urban demand, product access,
+                or stronger retail exposure.
+            </p>
+        </section>
+
+        <section>
+            <h2>6. How Product Categories Differ Across Platforms</h2>
+
+            <p class="desc">
+                This stacked bar chart compares beauty product categories across shopping platforms.
+            </p>
+
+            <div class="chart-box" id="chart6"></div>
+
+            <p class="insight">
+                Product categories across platforms show how online and retail channels
+                may appeal to different beauty shopping needs.
+            </p>
+        </section>
+
+    </div>
+
+    <div class="two-column">
+
+        <section>
+            <h2>7. Which Product Types Are Preferred?</h2>
+
+            <p class="desc">
+                This horizontal bar chart shows which skincare products are most preferred.
+            </p>
+
+            <div class="chart-box" id="chart7"></div>
+
+            <p class="insight">
+                Preferred product types reveal the routines consumers may prioritise,
+                such as cleansing, moisturising, sun protection, or targeted treatments.
+            </p>
+        </section>
+
+        <section>
+            <h2>8. How Does Spending Change by Age Group?</h2>
+
+            <p class="desc">
+                This line chart shows average monthly skincare spending across different age groups.
+            </p>
+
+            <div class="chart-box" id="chart8"></div>
+
+            <p class="insight">
+                Spending by age group helps show whether skincare purchases are stronger among
+                younger or older consumers. This adds a trend-style comparison to the dashboard.
+            </p>
+        </section>
+
+    </div>
+
+    <div class="two-column">
+
+        <section>
+            <h2>9. Which Brands Receive the Most Reviews?</h2>
+
+            <p class="desc">
+                This chart shows which beauty brands have the highest total review counts.
+            </p>
+
+            <div class="chart-box" id="chart9"></div>
+
+            <p class="insight">
+                Review volume can indicate stronger consumer engagement, product visibility,
+                or greater brand presence in the Malaysian beauty market.
+            </p>
+        </section>
+
+        <section>
+            <h2>10. Product Price Spread by Category</h2>
+
+            <p class="desc">
+                This box plot shows how product prices vary within each beauty product category.
+            </p>
+
+            <div class="chart-box" id="chart10"></div>
+
+            <p class="insight">
+                Price spread shows whether categories contain mostly affordable products,
+                premium products, or a wide range of price points.
+            </p>
+        </section>
+
+    </div>
+
+    <section class="metadata-box" id="metadata">
+        <h2>Metadata</h2>
+
+        <p class="source-text">
+            Domain: Malaysian skincare and beauty consumer behaviour.
+        </p>
+
+        <p class="source-text">
+            Data used: Malaysian skincare survey data, beauty product data,
+            and regional location data.
+        </p>
+
+        <p class="source-text">
+            Visual idioms used: bar chart, donut chart, scatter plot, heatmap,
+            proportional symbol map, stacked bar chart, horizontal bar chart,
+            line chart, and box plot.
+        </p>
+
+        <p class="source-text">
+            How it works: the visualisation compares skin concerns, product categories,
+            shopping platforms, prices, ratings, and regional spending patterns using
+            coordinated colour scales and interactive tooltips.
+        </p>
+    </section>
+
+    <section class="conclusion">
+        <h2>Conclusion</h2>
+
+        <p class="source-text">
+            Overall, the dashboard shows that skincare behaviour in Malaysia is shaped by
+            personal skin concerns, shopping convenience, product type, and regional spending
+            differences. Consistent colour scales help users compare concerns and product
+            categories across multiple charts.
+        </p>
+    </section>
+
+    <footer>
+        <p>Created by: Rehma Rowshan Rahman | FIT2179 Data Visualisation 2 | 2026</p>
+    </footer>
+
+    <script src="js/charts.js"></script>
+
+</body>
+
+</html>

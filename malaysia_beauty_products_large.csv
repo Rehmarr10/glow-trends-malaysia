@@ -1,0 +1,1001 @@
+Product_Category,Brand,Price_RM,Rating,Number_of_Reviews,Platform
+Sunscreen,Biore,167.75,3.52,1475,Shopee
+Moisturizer,Neutrogena,70.67,4.69,4370,Watsons
+Mask,SomeByMi,32.61,4.22,4362,Guardian
+Cleanser,Innisfree,30.19,3.7,3689,Watsons
+Cleanser,HadaLabo,41.67,3.85,4176,Lazada
+Serum,Cetaphil,124.54,4.9,1942,Guardian
+Toner,Innisfree,187.18,4.79,947,Guardian
+Essence,SomeByMi,109.41,4.56,3474,Lazada
+Toner,Cetaphil,171.73,4.22,4590,Lazada
+Mask,SomeByMi,100.26,4.28,1308,Lazada
+Toner,SomeByMi,147.55,4.96,2065,Shopee
+Serum,SomeByMi,151.74,4.95,4883,Shopee
+Toner,Laneige,51.31,3.82,1752,Guardian
+Moisturizer,Cetaphil,85.02,4.72,923,Guardian
+Serum,SomeByMi,134.71,3.8,615,Guardian
+Moisturizer,Cosrx,32.73,3.82,2068,Watsons
+Mask,Cetaphil,85.08,4.51,1935,Lazada
+Serum,Laneige,116.26,4.11,2173,Guardian
+Mask,Biore,199.32,4.9,4692,Lazada
+Mask,Biore,105.42,3.63,2364,Shopee
+Toner,HadaLabo,166.89,4.27,4462,Lazada
+Moisturizer,The Ordinary,97.77,4.88,3933,Watsons
+Mask,Cosrx,163.35,4.86,3242,Watsons
+Moisturizer,Biore,127.17,3.73,1909,Lazada
+Moisturizer,Laneige,179.59,4.05,74,Watsons
+Serum,The Ordinary,93.97,4.43,3553,Watsons
+Sunscreen,SomeByMi,128.77,3.74,4305,Shopee
+Toner,SomeByMi,133.4,4.95,1187,Guardian
+Mask,Neutrogena,95.13,4.87,1239,Watsons
+Moisturizer,The Ordinary,45.98,3.75,4848,Guardian
+Essence,Laneige,36.84,3.68,4146,Lazada
+Sunscreen,Cosrx,23.0,3.63,3207,Lazada
+Mask,The Ordinary,177.24,4.86,2417,Watsons
+Essence,Biore,62.57,3.79,4527,Lazada
+Toner,Cosrx,58.07,4.12,1791,Shopee
+Toner,Neutrogena,152.49,4.17,3738,Watsons
+Moisturizer,Cosrx,77.6,4.4,3796,Watsons
+Moisturizer,SomeByMi,111.09,3.61,947,Watsons
+Mask,Neutrogena,49.25,3.84,4073,Lazada
+Serum,Biore,192.75,4.9,766,Lazada
+Sunscreen,Cetaphil,173.28,4.86,4017,Watsons
+Mask,Biore,175.48,4.67,4071,Guardian
+Sunscreen,Biore,93.22,3.53,3265,Lazada
+Moisturizer,Innisfree,157.23,3.99,440,Lazada
+Toner,SomeByMi,45.9,4.44,3934,Watsons
+Moisturizer,SomeByMi,21.55,3.91,1749,Guardian
+Toner,Laneige,23.6,4.86,3087,Watsons
+Mask,Innisfree,125.59,4.45,282,Lazada
+Toner,HadaLabo,101.97,3.61,1976,Watsons
+Moisturizer,Biore,113.24,4.86,3181,Watsons
+Cleanser,Laneige,21.34,4.94,3356,Watsons
+Sunscreen,Innisfree,96.08,3.62,2774,Guardian
+Essence,Neutrogena,149.25,4.3,4851,Watsons
+Toner,Cosrx,99.68,3.96,283,Lazada
+Toner,Cosrx,151.8,4.09,1441,Watsons
+Cleanser,SomeByMi,61.94,3.77,2942,Guardian
+Mask,Innisfree,166.37,4.37,1305,Shopee
+Mask,Biore,125.92,4.94,2588,Guardian
+Mask,Biore,57.94,4.25,3740,Watsons
+Essence,Cetaphil,62.61,3.62,939,Shopee
+Serum,Cosrx,133.05,4.43,4737,Watsons
+Cleanser,Laneige,169.39,4.01,795,Guardian
+Essence,Innisfree,94.81,4.78,1769,Shopee
+Cleanser,Biore,66.49,4.15,477,Shopee
+Toner,Cetaphil,176.06,3.79,781,Watsons
+Sunscreen,Innisfree,140.47,3.79,849,Watsons
+Cleanser,The Ordinary,100.66,4.65,4347,Guardian
+Serum,Biore,107.82,3.9,885,Watsons
+Moisturizer,The Ordinary,56.77,4.65,184,Shopee
+Essence,Innisfree,132.82,3.81,2588,Lazada
+Cleanser,Biore,84.57,3.98,3768,Lazada
+Cleanser,The Ordinary,199.22,4.2,90,Guardian
+Serum,HadaLabo,106.43,4.91,3417,Watsons
+Sunscreen,Cetaphil,107.46,4.9,2465,Guardian
+Cleanser,Laneige,121.85,3.81,2090,Lazada
+Cleanser,Cosrx,185.02,4.04,4389,Lazada
+Sunscreen,Cetaphil,164.15,3.72,2999,Watsons
+Serum,The Ordinary,101.2,4.26,4311,Shopee
+Essence,Biore,149.37,4.19,3516,Watsons
+Essence,HadaLabo,125.52,4.85,3138,Lazada
+Cleanser,HadaLabo,108.63,4.9,4873,Shopee
+Sunscreen,Cosrx,54.62,4.08,1165,Guardian
+Cleanser,HadaLabo,103.51,4.24,4628,Lazada
+Mask,Cetaphil,64.25,4.84,2640,Guardian
+Moisturizer,HadaLabo,184.67,4.71,3623,Shopee
+Essence,Cosrx,80.37,3.51,3028,Guardian
+Mask,HadaLabo,191.41,3.98,2497,Lazada
+Toner,HadaLabo,115.95,4.13,1280,Watsons
+Moisturizer,Neutrogena,133.68,3.84,2716,Guardian
+Cleanser,Cetaphil,117.73,3.8,4975,Lazada
+Serum,The Ordinary,43.29,3.56,4904,Lazada
+Essence,SomeByMi,87.65,4.47,4308,Shopee
+Toner,HadaLabo,37.85,3.89,2644,Lazada
+Moisturizer,Laneige,132.13,3.58,3480,Watsons
+Essence,HadaLabo,100.44,3.85,2967,Watsons
+Sunscreen,Neutrogena,160.04,4.7,3002,Guardian
+Serum,The Ordinary,59.68,4.78,2045,Guardian
+Moisturizer,Laneige,49.62,4.22,3941,Guardian
+Sunscreen,Laneige,93.14,4.12,356,Guardian
+Mask,Cetaphil,186.79,4.97,1412,Watsons
+Cleanser,Cosrx,147.88,3.8,2152,Shopee
+Sunscreen,Cosrx,95.41,3.82,3080,Guardian
+Moisturizer,The Ordinary,113.11,3.94,382,Shopee
+Moisturizer,Cosrx,35.16,3.76,2802,Lazada
+Mask,Innisfree,197.22,4.07,292,Lazada
+Cleanser,Neutrogena,139.95,4.87,1934,Guardian
+Sunscreen,SomeByMi,71.37,4.42,1482,Lazada
+Sunscreen,SomeByMi,125.45,4.12,2600,Shopee
+Cleanser,Cetaphil,39.71,4.9,352,Shopee
+Sunscreen,Cetaphil,193.85,3.57,4380,Lazada
+Essence,SomeByMi,51.46,3.82,3159,Guardian
+Cleanser,Cosrx,136.65,4.35,2236,Shopee
+Serum,Biore,64.18,4.42,4340,Shopee
+Moisturizer,Innisfree,149.16,3.56,1600,Watsons
+Serum,HadaLabo,159.83,4.1,1842,Guardian
+Essence,The Ordinary,141.22,4.47,696,Watsons
+Mask,Neutrogena,130.61,4.55,4706,Lazada
+Essence,Biore,180.64,4.46,762,Lazada
+Toner,Innisfree,34.15,3.98,4558,Watsons
+Toner,HadaLabo,79.56,3.64,587,Guardian
+Toner,Cetaphil,64.69,4.14,284,Shopee
+Cleanser,Innisfree,197.84,3.69,2446,Lazada
+Sunscreen,SomeByMi,90.09,4.92,1554,Guardian
+Essence,Innisfree,151.87,4.21,1424,Guardian
+Serum,The Ordinary,143.25,3.98,4561,Lazada
+Mask,Laneige,58.17,4.65,1959,Lazada
+Serum,Cetaphil,63.02,4.25,965,Guardian
+Serum,Neutrogena,70.63,3.97,4008,Shopee
+Serum,Neutrogena,94.0,4.72,130,Watsons
+Mask,Innisfree,62.18,4.8,2133,Lazada
+Toner,Laneige,23.54,4.51,2738,Watsons
+Serum,HadaLabo,178.29,3.57,1740,Guardian
+Mask,Biore,193.81,4.35,806,Watsons
+Mask,HadaLabo,81.48,4.64,2720,Shopee
+Sunscreen,Biore,80.93,3.7,3801,Guardian
+Mask,Laneige,21.28,3.84,3602,Shopee
+Toner,Biore,142.45,4.82,517,Guardian
+Serum,The Ordinary,168.58,3.53,1544,Shopee
+Mask,Innisfree,46.39,4.63,1069,Guardian
+Cleanser,HadaLabo,48.74,4.21,951,Shopee
+Mask,The Ordinary,162.21,4.17,722,Guardian
+Moisturizer,HadaLabo,130.93,3.51,488,Shopee
+Moisturizer,Innisfree,28.07,4.73,4272,Guardian
+Moisturizer,Cosrx,132.06,4.04,2126,Shopee
+Mask,Biore,75.61,4.31,494,Lazada
+Toner,Laneige,86.37,4.52,1015,Watsons
+Serum,Cosrx,158.55,4.55,3840,Guardian
+Essence,Cosrx,165.97,4.93,513,Shopee
+Essence,Neutrogena,92.06,4.3,2248,Lazada
+Essence,SomeByMi,190.49,4.1,2337,Guardian
+Toner,The Ordinary,93.16,4.93,3815,Guardian
+Sunscreen,The Ordinary,158.93,4.46,3226,Guardian
+Cleanser,The Ordinary,107.1,3.95,4058,Watsons
+Cleanser,The Ordinary,181.56,3.69,3554,Shopee
+Moisturizer,Cosrx,183.4,4.76,962,Shopee
+Moisturizer,The Ordinary,35.74,4.04,546,Guardian
+Mask,SomeByMi,188.57,4.49,1513,Guardian
+Essence,Cetaphil,168.6,4.21,4303,Guardian
+Mask,Innisfree,162.44,3.8,4317,Lazada
+Essence,The Ordinary,56.16,4.4,543,Guardian
+Moisturizer,Laneige,164.92,3.59,1476,Watsons
+Serum,Cetaphil,173.02,4.12,1742,Shopee
+Sunscreen,Laneige,72.05,4.32,1843,Watsons
+Mask,Laneige,191.41,4.15,2773,Guardian
+Sunscreen,HadaLabo,28.97,4.62,708,Lazada
+Sunscreen,Laneige,46.98,4.74,4811,Guardian
+Sunscreen,The Ordinary,116.76,4.66,4512,Guardian
+Moisturizer,HadaLabo,123.64,3.56,599,Guardian
+Cleanser,Neutrogena,136.13,3.79,692,Guardian
+Moisturizer,Cosrx,23.05,4.3,4400,Guardian
+Sunscreen,Laneige,192.87,4.9,257,Shopee
+Moisturizer,SomeByMi,28.03,4.75,2547,Watsons
+Sunscreen,Innisfree,45.75,4.76,4240,Lazada
+Toner,Laneige,22.52,3.95,1933,Guardian
+Essence,Neutrogena,122.03,4.14,2936,Lazada
+Cleanser,Biore,187.81,4.21,527,Shopee
+Toner,Neutrogena,139.87,3.74,811,Watsons
+Serum,Biore,168.08,3.55,239,Guardian
+Moisturizer,Neutrogena,22.39,4.92,805,Shopee
+Serum,Cosrx,117.56,3.86,1496,Shopee
+Mask,Innisfree,102.72,3.86,4981,Watsons
+Moisturizer,Neutrogena,109.81,3.63,1713,Guardian
+Essence,Biore,33.0,4.89,1885,Watsons
+Toner,Laneige,143.2,4.37,4278,Watsons
+Essence,Cosrx,110.58,4.5,4200,Lazada
+Mask,Cosrx,157.73,4.87,4110,Lazada
+Sunscreen,Laneige,107.35,4.02,4655,Watsons
+Essence,SomeByMi,46.89,4.43,4815,Lazada
+Essence,HadaLabo,136.69,3.56,3662,Shopee
+Sunscreen,Innisfree,51.03,3.78,1739,Watsons
+Moisturizer,Innisfree,177.03,4.75,1366,Guardian
+Sunscreen,SomeByMi,130.36,4.65,4879,Guardian
+Toner,HadaLabo,48.3,4.03,3236,Shopee
+Essence,Innisfree,193.22,4.07,4070,Guardian
+Sunscreen,Biore,113.31,4.3,4404,Guardian
+Mask,Cetaphil,33.12,3.5,1195,Watsons
+Mask,Cetaphil,132.83,3.86,4444,Shopee
+Essence,Innisfree,65.58,3.81,610,Watsons
+Toner,The Ordinary,164.66,3.88,1962,Shopee
+Serum,Innisfree,167.21,4.71,1914,Watsons
+Toner,Laneige,196.21,3.92,346,Watsons
+Cleanser,Laneige,110.34,3.79,2459,Lazada
+Cleanser,HadaLabo,101.89,4.26,2686,Guardian
+Cleanser,Cosrx,155.63,4.8,1511,Shopee
+Essence,Biore,43.84,3.86,4342,Guardian
+Mask,SomeByMi,118.44,3.62,2318,Lazada
+Moisturizer,Innisfree,118.32,4.03,1044,Shopee
+Mask,Biore,36.11,4.62,57,Lazada
+Moisturizer,SomeByMi,95.24,4.33,2641,Guardian
+Moisturizer,Laneige,173.59,4.73,2565,Watsons
+Mask,Neutrogena,174.11,4.94,4465,Lazada
+Essence,Biore,37.86,4.69,1467,Lazada
+Toner,Cetaphil,36.33,4.41,2366,Watsons
+Moisturizer,Innisfree,67.29,4.24,3982,Guardian
+Serum,HadaLabo,177.46,3.56,1337,Lazada
+Mask,Cetaphil,43.2,4.98,2894,Guardian
+Mask,Cosrx,149.6,4.08,1168,Watsons
+Cleanser,The Ordinary,38.21,3.73,602,Shopee
+Toner,SomeByMi,132.16,4.5,710,Lazada
+Cleanser,Laneige,84.09,3.93,765,Guardian
+Mask,Innisfree,162.0,4.38,3635,Watsons
+Mask,HadaLabo,62.06,4.38,3811,Watsons
+Moisturizer,Neutrogena,135.06,4.17,2579,Lazada
+Toner,Laneige,62.42,4.75,4020,Shopee
+Sunscreen,Innisfree,148.46,3.9,3457,Lazada
+Serum,Neutrogena,177.26,4.17,1508,Guardian
+Moisturizer,HadaLabo,42.82,4.31,3317,Watsons
+Mask,The Ordinary,175.99,4.5,904,Shopee
+Moisturizer,Cetaphil,126.84,4.68,4810,Guardian
+Serum,Cetaphil,42.88,4.09,3587,Lazada
+Mask,Laneige,96.96,4.47,1947,Watsons
+Serum,Innisfree,48.95,3.73,322,Lazada
+Sunscreen,Innisfree,146.06,4.9,4137,Shopee
+Moisturizer,HadaLabo,156.6,4.07,1322,Shopee
+Essence,The Ordinary,39.04,4.59,4424,Shopee
+Moisturizer,Innisfree,111.11,3.53,4069,Shopee
+Cleanser,HadaLabo,166.63,3.81,865,Shopee
+Toner,Cosrx,188.51,4.23,4421,Lazada
+Toner,Laneige,112.43,4.82,972,Shopee
+Cleanser,Cosrx,191.05,4.29,4787,Shopee
+Mask,Laneige,116.42,4.89,4650,Watsons
+Toner,Neutrogena,90.95,4.23,4917,Shopee
+Serum,HadaLabo,172.68,4.24,1314,Watsons
+Toner,HadaLabo,108.74,3.68,3774,Watsons
+Toner,Biore,104.94,4.7,2837,Watsons
+Cleanser,Neutrogena,108.26,3.87,2772,Lazada
+Mask,HadaLabo,172.42,4.85,4273,Lazada
+Sunscreen,Innisfree,169.75,4.87,2600,Guardian
+Toner,Laneige,92.63,4.91,2999,Guardian
+Essence,Cosrx,79.99,4.28,1723,Watsons
+Toner,Laneige,108.55,4.52,4637,Lazada
+Sunscreen,Cetaphil,123.1,4.67,3142,Shopee
+Cleanser,Biore,62.9,3.7,2888,Guardian
+Sunscreen,HadaLabo,162.91,4.4,1716,Lazada
+Cleanser,The Ordinary,107.57,3.55,4561,Shopee
+Serum,SomeByMi,80.13,4.25,2245,Shopee
+Cleanser,Biore,39.23,3.73,1434,Lazada
+Serum,HadaLabo,62.99,3.77,4453,Guardian
+Serum,Cosrx,190.87,4.05,4004,Lazada
+Cleanser,HadaLabo,74.92,4.15,2949,Guardian
+Essence,SomeByMi,50.39,4.43,110,Watsons
+Moisturizer,Cosrx,102.92,3.61,3997,Lazada
+Cleanser,Laneige,75.28,4.26,2340,Lazada
+Toner,Cosrx,26.33,3.77,522,Guardian
+Essence,Biore,78.17,4.36,1008,Guardian
+Essence,Laneige,117.94,4.46,582,Lazada
+Toner,HadaLabo,119.31,4.34,543,Shopee
+Moisturizer,Neutrogena,84.18,4.61,131,Shopee
+Essence,HadaLabo,100.51,4.0,3020,Shopee
+Serum,SomeByMi,193.79,4.65,61,Watsons
+Moisturizer,Neutrogena,87.92,4.15,4594,Watsons
+Mask,HadaLabo,66.48,4.23,811,Guardian
+Toner,The Ordinary,63.82,4.47,3235,Watsons
+Moisturizer,Biore,102.4,3.53,75,Shopee
+Cleanser,The Ordinary,156.71,4.48,1856,Lazada
+Moisturizer,Laneige,57.08,4.43,4207,Watsons
+Serum,Cetaphil,147.67,3.96,4374,Watsons
+Cleanser,HadaLabo,23.81,3.63,4752,Shopee
+Sunscreen,Innisfree,95.41,3.64,3709,Watsons
+Toner,Innisfree,159.66,4.88,1575,Guardian
+Toner,Cosrx,80.97,4.53,810,Lazada
+Moisturizer,The Ordinary,121.47,3.69,644,Shopee
+Essence,Biore,56.9,4.04,1105,Guardian
+Cleanser,HadaLabo,153.56,4.39,1904,Shopee
+Sunscreen,SomeByMi,29.41,4.75,3133,Guardian
+Cleanser,Cosrx,173.46,3.57,3966,Lazada
+Toner,Laneige,55.68,3.85,3725,Lazada
+Cleanser,Neutrogena,177.39,4.83,2098,Guardian
+Sunscreen,Laneige,83.46,3.51,1508,Guardian
+Essence,HadaLabo,150.08,3.8,1269,Guardian
+Moisturizer,Cetaphil,77.46,4.94,4278,Guardian
+Serum,Neutrogena,183.06,4.42,4231,Guardian
+Cleanser,The Ordinary,42.79,3.89,1549,Guardian
+Serum,HadaLabo,52.13,3.6,1880,Lazada
+Toner,Cetaphil,108.75,3.54,3445,Guardian
+Moisturizer,The Ordinary,34.75,3.87,1253,Watsons
+Mask,Cetaphil,55.28,4.82,4320,Lazada
+Moisturizer,The Ordinary,189.88,4.12,2860,Shopee
+Cleanser,Biore,195.77,4.58,3142,Lazada
+Essence,Innisfree,87.73,4.88,3094,Shopee
+Moisturizer,Laneige,186.19,4.11,4723,Shopee
+Cleanser,Biore,118.07,3.79,3564,Watsons
+Cleanser,Neutrogena,68.55,4.28,1848,Guardian
+Serum,Cosrx,146.43,4.86,2625,Guardian
+Moisturizer,Innisfree,138.6,4.71,194,Lazada
+Cleanser,Biore,198.04,3.6,4907,Guardian
+Serum,HadaLabo,67.71,4.54,3976,Watsons
+Sunscreen,Cetaphil,140.97,4.36,1427,Lazada
+Mask,Neutrogena,29.36,4.86,3196,Lazada
+Serum,HadaLabo,40.46,3.68,1875,Lazada
+Serum,Innisfree,20.71,4.3,843,Guardian
+Cleanser,Cetaphil,199.9,4.82,1651,Guardian
+Toner,Neutrogena,164.41,4.12,4464,Guardian
+Toner,Cosrx,161.61,4.22,1160,Lazada
+Essence,Innisfree,111.75,3.61,4103,Lazada
+Toner,Neutrogena,74.01,3.92,4843,Shopee
+Serum,Biore,47.23,3.99,3987,Shopee
+Essence,Neutrogena,71.24,4.92,4013,Guardian
+Cleanser,Innisfree,87.67,3.92,4992,Lazada
+Moisturizer,Biore,156.14,4.19,832,Guardian
+Mask,HadaLabo,117.14,4.51,1166,Guardian
+Mask,Innisfree,33.95,3.74,1800,Shopee
+Serum,SomeByMi,23.25,4.23,2626,Watsons
+Serum,Cosrx,38.42,4.61,4077,Guardian
+Essence,SomeByMi,93.89,4.8,3386,Watsons
+Cleanser,Laneige,187.97,4.44,4437,Watsons
+Sunscreen,Cetaphil,134.73,4.5,1537,Lazada
+Serum,The Ordinary,164.33,3.69,3925,Lazada
+Sunscreen,Cosrx,103.95,4.92,3681,Guardian
+Sunscreen,SomeByMi,85.1,3.7,4242,Shopee
+Toner,The Ordinary,39.51,4.66,4008,Shopee
+Cleanser,Cosrx,177.67,3.9,3447,Guardian
+Mask,The Ordinary,160.97,4.9,123,Guardian
+Mask,Biore,50.26,4.58,1409,Shopee
+Sunscreen,SomeByMi,112.21,4.63,1141,Watsons
+Mask,Neutrogena,107.73,3.83,4903,Guardian
+Cleanser,Biore,132.52,4.16,1991,Watsons
+Toner,Cosrx,190.31,4.43,3198,Guardian
+Cleanser,Cosrx,124.36,4.65,4353,Guardian
+Serum,Innisfree,117.24,3.66,1294,Watsons
+Sunscreen,SomeByMi,29.06,4.94,1335,Watsons
+Cleanser,Laneige,31.32,4.84,4555,Shopee
+Mask,Laneige,53.72,3.91,3086,Guardian
+Moisturizer,Cosrx,25.84,4.73,820,Lazada
+Cleanser,Laneige,153.8,4.28,1893,Lazada
+Sunscreen,Cetaphil,150.2,4.19,123,Guardian
+Toner,Innisfree,44.49,3.97,1710,Guardian
+Mask,Cosrx,170.49,4.37,4399,Guardian
+Toner,Laneige,47.86,4.59,869,Watsons
+Sunscreen,SomeByMi,74.21,4.12,3868,Lazada
+Mask,Neutrogena,64.82,4.44,381,Lazada
+Serum,Biore,87.02,4.55,1471,Lazada
+Mask,Biore,65.84,4.57,3705,Guardian
+Serum,Cetaphil,108.01,3.58,4981,Watsons
+Toner,The Ordinary,93.33,4.79,1741,Guardian
+Toner,SomeByMi,197.58,4.19,4600,Shopee
+Sunscreen,The Ordinary,30.07,3.89,4458,Shopee
+Serum,Innisfree,45.59,3.86,277,Lazada
+Toner,Neutrogena,29.51,4.22,2931,Guardian
+Serum,Innisfree,132.65,4.83,2915,Shopee
+Toner,Cosrx,29.81,4.07,2625,Shopee
+Mask,SomeByMi,170.56,4.62,4572,Guardian
+Cleanser,Cosrx,112.15,3.65,514,Watsons
+Moisturizer,HadaLabo,114.86,4.21,327,Guardian
+Mask,Laneige,121.09,4.99,4164,Guardian
+Essence,Biore,50.75,4.66,115,Watsons
+Cleanser,Cosrx,55.58,3.82,4312,Lazada
+Essence,The Ordinary,77.39,4.25,452,Lazada
+Toner,HadaLabo,126.83,3.85,4033,Lazada
+Moisturizer,Biore,57.82,4.11,4554,Watsons
+Moisturizer,Cosrx,40.94,4.67,3528,Shopee
+Toner,HadaLabo,194.62,4.66,3494,Watsons
+Toner,HadaLabo,23.96,3.84,4742,Guardian
+Serum,SomeByMi,164.49,4.88,4469,Watsons
+Toner,Innisfree,161.85,4.39,3089,Shopee
+Sunscreen,HadaLabo,73.5,4.07,1487,Shopee
+Toner,Cetaphil,44.41,4.25,478,Guardian
+Sunscreen,Innisfree,46.21,4.41,2732,Lazada
+Toner,Biore,145.54,4.34,2827,Shopee
+Serum,Biore,135.71,4.23,3428,Shopee
+Sunscreen,Biore,160.89,4.26,442,Shopee
+Cleanser,Biore,188.75,3.76,4591,Guardian
+Sunscreen,Cetaphil,144.55,4.72,391,Shopee
+Mask,Cosrx,48.05,4.31,182,Lazada
+Serum,Neutrogena,63.82,3.7,314,Guardian
+Essence,HadaLabo,171.59,4.65,4238,Lazada
+Sunscreen,Biore,57.68,4.9,1735,Shopee
+Mask,Innisfree,33.05,4.92,1484,Shopee
+Mask,Innisfree,146.59,4.05,1710,Lazada
+Mask,HadaLabo,92.45,3.7,3867,Guardian
+Toner,Cosrx,185.61,4.28,2404,Guardian
+Mask,Neutrogena,137.05,3.67,315,Lazada
+Toner,Cosrx,36.28,4.9,4791,Shopee
+Essence,HadaLabo,190.61,3.78,1186,Watsons
+Serum,The Ordinary,66.54,3.88,4599,Lazada
+Moisturizer,Cetaphil,80.7,4.11,4976,Lazada
+Toner,HadaLabo,92.41,4.07,1440,Lazada
+Mask,Laneige,29.22,4.69,1162,Shopee
+Mask,SomeByMi,109.37,4.18,2284,Guardian
+Cleanser,SomeByMi,42.2,3.76,2916,Shopee
+Mask,Cosrx,92.17,3.9,3118,Lazada
+Serum,HadaLabo,83.13,4.26,2229,Shopee
+Sunscreen,HadaLabo,159.11,3.72,684,Shopee
+Sunscreen,SomeByMi,164.57,4.42,3681,Lazada
+Mask,Neutrogena,47.61,4.35,1449,Shopee
+Cleanser,SomeByMi,85.98,4.57,4836,Watsons
+Toner,HadaLabo,87.2,4.91,2789,Shopee
+Serum,Neutrogena,47.25,4.87,3220,Shopee
+Cleanser,Biore,163.72,4.92,1915,Guardian
+Toner,Laneige,147.3,3.87,2005,Guardian
+Serum,The Ordinary,54.27,3.7,4727,Lazada
+Mask,Cetaphil,86.01,3.95,2268,Lazada
+Sunscreen,Biore,39.04,4.84,1439,Guardian
+Serum,Innisfree,133.08,4.96,4929,Watsons
+Mask,SomeByMi,41.85,4.79,3180,Shopee
+Essence,Laneige,197.47,3.67,4326,Watsons
+Moisturizer,SomeByMi,160.52,4.92,4164,Watsons
+Serum,SomeByMi,90.24,4.14,1299,Guardian
+Moisturizer,Biore,124.14,3.51,3216,Lazada
+Serum,The Ordinary,184.04,4.16,1295,Shopee
+Moisturizer,Neutrogena,119.74,3.57,103,Lazada
+Essence,SomeByMi,51.41,4.32,2960,Watsons
+Sunscreen,Cosrx,88.17,4.01,2446,Watsons
+Toner,HadaLabo,171.77,4.21,492,Lazada
+Moisturizer,Laneige,135.96,4.42,4725,Lazada
+Essence,Cosrx,137.13,4.8,3661,Guardian
+Moisturizer,Biore,176.03,4.49,4427,Lazada
+Sunscreen,Biore,180.92,4.15,2457,Lazada
+Moisturizer,The Ordinary,185.56,4.73,872,Guardian
+Essence,The Ordinary,37.07,4.86,3752,Lazada
+Mask,Neutrogena,117.94,3.68,2989,Watsons
+Essence,HadaLabo,153.29,4.3,4786,Lazada
+Cleanser,Laneige,156.25,3.93,1081,Shopee
+Sunscreen,HadaLabo,129.21,3.57,2066,Watsons
+Mask,Innisfree,50.02,4.5,612,Guardian
+Cleanser,The Ordinary,163.54,4.79,2588,Watsons
+Sunscreen,Neutrogena,149.62,3.74,390,Guardian
+Mask,Cetaphil,35.5,4.72,4617,Shopee
+Moisturizer,SomeByMi,103.49,4.78,3825,Shopee
+Mask,SomeByMi,51.32,4.87,2346,Watsons
+Essence,Cetaphil,80.75,3.9,284,Lazada
+Cleanser,HadaLabo,23.25,4.86,1166,Watsons
+Moisturizer,Cetaphil,92.06,3.98,1958,Watsons
+Essence,Neutrogena,118.98,4.33,1467,Shopee
+Sunscreen,Laneige,131.52,3.58,4969,Guardian
+Mask,Cetaphil,139.43,3.57,1341,Watsons
+Essence,Neutrogena,170.53,4.58,3538,Lazada
+Moisturizer,The Ordinary,58.78,4.17,4777,Shopee
+Cleanser,Cosrx,41.69,3.88,3704,Watsons
+Cleanser,Biore,173.28,3.79,578,Watsons
+Mask,Biore,48.19,4.5,3374,Lazada
+Essence,Innisfree,195.46,3.5,2030,Watsons
+Moisturizer,HadaLabo,171.66,4.71,2989,Watsons
+Serum,Laneige,110.16,3.62,1379,Watsons
+Sunscreen,Cosrx,196.66,3.79,1283,Watsons
+Sunscreen,Cosrx,37.53,4.08,1803,Lazada
+Moisturizer,The Ordinary,74.55,4.23,2850,Watsons
+Serum,Cetaphil,134.88,4.03,2983,Watsons
+Cleanser,HadaLabo,83.0,3.98,2809,Watsons
+Mask,SomeByMi,187.11,4.95,2825,Shopee
+Toner,Cosrx,31.81,4.46,3537,Lazada
+Toner,Neutrogena,118.89,3.54,3900,Shopee
+Mask,SomeByMi,126.36,4.15,2577,Shopee
+Moisturizer,Innisfree,137.49,4.81,940,Lazada
+Serum,Cetaphil,66.02,3.95,2115,Shopee
+Serum,Cetaphil,85.62,3.64,1238,Shopee
+Sunscreen,Laneige,171.86,4.64,4347,Shopee
+Cleanser,Cosrx,55.09,4.41,790,Lazada
+Essence,The Ordinary,168.84,4.36,1419,Watsons
+Serum,Biore,121.28,3.58,1439,Guardian
+Mask,Neutrogena,157.19,3.71,2050,Guardian
+Essence,SomeByMi,148.45,4.43,1521,Lazada
+Toner,Innisfree,57.35,3.81,1586,Guardian
+Essence,Biore,122.39,4.26,368,Lazada
+Cleanser,Cetaphil,176.19,4.32,2314,Lazada
+Mask,SomeByMi,97.78,3.93,1944,Guardian
+Cleanser,HadaLabo,193.99,4.92,3761,Shopee
+Essence,Cosrx,101.4,4.76,4869,Watsons
+Moisturizer,Innisfree,45.7,4.58,2872,Guardian
+Serum,HadaLabo,90.1,3.62,4558,Guardian
+Mask,The Ordinary,191.31,3.66,1325,Guardian
+Moisturizer,Cosrx,77.55,4.24,3133,Guardian
+Essence,SomeByMi,176.26,3.74,450,Lazada
+Serum,Cosrx,178.63,4.97,773,Lazada
+Sunscreen,Biore,83.03,3.74,2379,Watsons
+Moisturizer,Laneige,34.99,4.23,1185,Watsons
+Moisturizer,Biore,150.42,4.05,2820,Guardian
+Essence,The Ordinary,76.07,4.46,4896,Guardian
+Toner,Neutrogena,160.93,3.69,317,Guardian
+Essence,HadaLabo,99.68,4.15,619,Watsons
+Moisturizer,Biore,107.35,3.91,2606,Guardian
+Serum,Laneige,160.02,4.83,2023,Shopee
+Toner,Neutrogena,88.83,3.56,595,Watsons
+Essence,Biore,99.76,4.87,2872,Shopee
+Mask,Cetaphil,87.71,4.75,4510,Guardian
+Essence,Laneige,86.12,3.95,4692,Lazada
+Moisturizer,HadaLabo,114.67,4.68,320,Shopee
+Moisturizer,Innisfree,165.58,3.55,788,Watsons
+Sunscreen,Neutrogena,85.12,4.95,1307,Shopee
+Essence,Cetaphil,114.37,4.29,108,Watsons
+Moisturizer,Innisfree,140.73,3.95,4231,Guardian
+Mask,SomeByMi,68.5,4.04,4908,Shopee
+Cleanser,Laneige,69.95,3.6,439,Lazada
+Toner,Cetaphil,188.01,4.98,768,Shopee
+Cleanser,Cosrx,150.24,3.56,4294,Lazada
+Toner,SomeByMi,123.89,4.48,4728,Watsons
+Mask,SomeByMi,136.59,4.16,170,Guardian
+Essence,Neutrogena,25.27,4.92,2702,Guardian
+Sunscreen,Laneige,131.26,3.87,2353,Lazada
+Moisturizer,Cetaphil,111.71,4.3,4911,Watsons
+Moisturizer,The Ordinary,118.23,4.22,2961,Guardian
+Moisturizer,Cetaphil,84.7,4.55,849,Watsons
+Essence,Biore,34.67,3.6,3430,Lazada
+Toner,SomeByMi,54.8,3.79,2156,Lazada
+Mask,HadaLabo,191.13,3.82,1159,Shopee
+Moisturizer,SomeByMi,93.57,4.61,1300,Guardian
+Cleanser,SomeByMi,104.0,3.78,2690,Guardian
+Moisturizer,Cosrx,29.49,4.36,1699,Shopee
+Essence,The Ordinary,26.76,3.82,1395,Lazada
+Mask,Innisfree,149.09,4.79,3006,Lazada
+Sunscreen,Innisfree,116.86,4.91,2496,Lazada
+Mask,Cosrx,111.57,4.28,3414,Lazada
+Cleanser,SomeByMi,63.76,4.03,534,Watsons
+Moisturizer,Innisfree,154.06,3.85,852,Guardian
+Moisturizer,Laneige,50.28,3.57,1765,Guardian
+Serum,The Ordinary,54.19,3.9,1965,Lazada
+Toner,Innisfree,102.93,4.48,3533,Lazada
+Cleanser,Cosrx,71.53,4.3,1807,Lazada
+Serum,Biore,64.54,4.92,1859,Guardian
+Mask,Innisfree,136.14,4.09,3057,Guardian
+Sunscreen,The Ordinary,137.17,4.54,3275,Lazada
+Toner,Neutrogena,168.41,4.23,3545,Watsons
+Cleanser,Neutrogena,95.19,4.27,2370,Shopee
+Moisturizer,Laneige,33.16,3.9,1720,Shopee
+Mask,Cetaphil,69.26,4.18,4665,Shopee
+Cleanser,Cetaphil,196.4,4.21,1201,Guardian
+Moisturizer,Innisfree,127.33,4.56,4797,Guardian
+Toner,HadaLabo,147.75,4.91,2273,Shopee
+Moisturizer,Biore,21.32,3.99,2717,Shopee
+Sunscreen,Cosrx,113.28,3.56,260,Watsons
+Mask,Biore,26.76,4.24,2544,Guardian
+Essence,Neutrogena,122.46,4.32,4731,Guardian
+Moisturizer,Innisfree,185.74,3.75,4312,Shopee
+Sunscreen,The Ordinary,194.32,4.64,2557,Watsons
+Essence,Cosrx,117.3,4.98,3013,Watsons
+Mask,Biore,102.48,4.92,3478,Shopee
+Toner,The Ordinary,190.1,3.8,3425,Shopee
+Toner,Cosrx,141.25,4.81,4005,Guardian
+Mask,Biore,31.68,4.56,3755,Shopee
+Mask,Laneige,103.83,4.18,3455,Lazada
+Cleanser,Neutrogena,63.24,4.31,4088,Watsons
+Sunscreen,SomeByMi,104.56,4.77,1102,Shopee
+Sunscreen,Cosrx,101.98,4.22,763,Lazada
+Mask,Neutrogena,124.79,4.06,2938,Watsons
+Serum,HadaLabo,84.22,4.24,737,Lazada
+Serum,Innisfree,49.57,4.37,379,Lazada
+Essence,The Ordinary,110.67,3.78,1796,Shopee
+Essence,Cosrx,169.44,4.85,1257,Watsons
+Serum,Innisfree,139.52,4.51,2192,Lazada
+Mask,Innisfree,80.91,4.45,834,Guardian
+Mask,SomeByMi,188.39,3.65,2746,Watsons
+Essence,Biore,184.2,4.41,3870,Guardian
+Moisturizer,Cosrx,57.68,3.68,3768,Shopee
+Mask,Neutrogena,27.1,3.62,2743,Guardian
+Serum,Cetaphil,153.44,4.29,675,Watsons
+Sunscreen,Cosrx,168.97,4.1,4284,Lazada
+Mask,Cosrx,194.22,4.38,3758,Lazada
+Mask,Cosrx,180.17,3.63,811,Watsons
+Moisturizer,Innisfree,128.1,4.15,4029,Lazada
+Essence,The Ordinary,115.41,3.76,3579,Guardian
+Mask,Innisfree,25.01,4.98,1605,Lazada
+Toner,The Ordinary,64.4,4.34,3683,Lazada
+Cleanser,Cetaphil,102.73,4.53,725,Guardian
+Serum,Innisfree,133.13,3.99,4237,Guardian
+Toner,The Ordinary,120.31,3.64,86,Guardian
+Essence,Innisfree,153.67,4.96,3886,Shopee
+Sunscreen,HadaLabo,70.36,3.93,1837,Guardian
+Cleanser,Innisfree,121.69,4.14,2777,Guardian
+Toner,Cetaphil,35.87,4.47,3930,Shopee
+Cleanser,Cetaphil,94.46,3.54,1944,Lazada
+Serum,The Ordinary,155.03,4.72,186,Guardian
+Essence,The Ordinary,144.81,4.3,3126,Watsons
+Mask,Cetaphil,198.32,3.92,3933,Guardian
+Sunscreen,Cetaphil,70.02,3.59,711,Guardian
+Essence,SomeByMi,109.67,3.74,1860,Shopee
+Cleanser,Cosrx,79.32,4.84,464,Watsons
+Toner,Laneige,99.31,4.53,392,Lazada
+Serum,Innisfree,174.25,3.87,2779,Lazada
+Serum,Biore,143.16,3.6,3500,Watsons
+Essence,Cosrx,178.84,4.54,3715,Guardian
+Mask,Laneige,56.63,4.36,3787,Shopee
+Toner,SomeByMi,177.21,4.11,3947,Watsons
+Mask,Biore,30.76,4.05,4291,Watsons
+Mask,The Ordinary,179.95,3.83,4468,Lazada
+Toner,Cetaphil,79.23,4.5,2219,Shopee
+Cleanser,HadaLabo,76.63,4.96,1928,Watsons
+Essence,Neutrogena,112.18,3.76,4020,Shopee
+Essence,Cetaphil,189.32,4.4,4746,Guardian
+Moisturizer,HadaLabo,28.6,4.14,4620,Lazada
+Essence,Laneige,83.4,4.17,2667,Guardian
+Serum,The Ordinary,174.18,3.88,1565,Shopee
+Cleanser,Biore,91.29,4.74,624,Guardian
+Toner,Laneige,55.85,4.23,4492,Lazada
+Essence,Cetaphil,96.46,4.32,2917,Shopee
+Cleanser,Cetaphil,89.4,3.96,3594,Watsons
+Essence,Biore,184.77,3.77,4527,Guardian
+Toner,Neutrogena,157.15,3.63,121,Lazada
+Sunscreen,HadaLabo,110.92,4.57,2618,Watsons
+Toner,Laneige,197.91,3.79,3487,Lazada
+Toner,The Ordinary,103.75,4.54,3030,Shopee
+Toner,Cetaphil,30.48,4.09,1167,Shopee
+Essence,Laneige,67.21,4.12,2436,Guardian
+Moisturizer,Neutrogena,98.49,4.2,3558,Lazada
+Toner,Laneige,48.24,4.05,1409,Lazada
+Serum,Biore,190.56,3.65,4809,Lazada
+Serum,The Ordinary,158.03,3.96,1565,Shopee
+Cleanser,SomeByMi,68.29,4.5,89,Guardian
+Moisturizer,Biore,126.34,4.5,1432,Lazada
+Cleanser,Laneige,149.86,3.93,2080,Lazada
+Serum,SomeByMi,189.43,4.19,2671,Watsons
+Mask,Cetaphil,178.69,3.79,1950,Lazada
+Serum,SomeByMi,112.73,3.82,2267,Guardian
+Sunscreen,Neutrogena,159.44,3.53,4846,Watsons
+Toner,Innisfree,121.19,4.85,4656,Watsons
+Mask,Neutrogena,119.49,3.82,1333,Watsons
+Serum,Biore,40.65,3.84,633,Shopee
+Essence,Innisfree,42.7,3.92,508,Watsons
+Essence,Biore,115.32,3.69,2315,Lazada
+Cleanser,The Ordinary,68.4,4.46,2716,Shopee
+Mask,Cosrx,23.79,3.61,865,Shopee
+Cleanser,Cetaphil,150.11,3.7,2561,Shopee
+Toner,Cetaphil,25.85,4.47,296,Shopee
+Toner,Laneige,127.15,4.01,4875,Shopee
+Sunscreen,HadaLabo,117.05,4.56,466,Shopee
+Moisturizer,Biore,194.39,4.34,4513,Shopee
+Cleanser,Cosrx,107.16,3.88,3767,Watsons
+Toner,Cosrx,31.45,4.48,157,Guardian
+Cleanser,Neutrogena,119.3,3.67,2681,Lazada
+Toner,Neutrogena,171.4,4.3,888,Lazada
+Serum,HadaLabo,199.43,4.16,4563,Watsons
+Cleanser,Laneige,97.46,3.9,4966,Watsons
+Serum,SomeByMi,77.65,4.41,1471,Shopee
+Cleanser,Neutrogena,183.2,4.81,4828,Guardian
+Moisturizer,Laneige,54.42,5.0,3962,Shopee
+Sunscreen,The Ordinary,130.78,4.41,305,Watsons
+Essence,Cetaphil,93.03,4.11,2877,Shopee
+Essence,Cetaphil,27.39,3.84,887,Lazada
+Essence,Laneige,82.51,3.89,3012,Lazada
+Serum,HadaLabo,67.74,4.22,2332,Shopee
+Mask,Cosrx,143.5,4.05,602,Guardian
+Toner,HadaLabo,190.78,4.87,230,Shopee
+Essence,Laneige,68.25,4.05,4302,Shopee
+Moisturizer,Biore,166.06,4.06,1527,Guardian
+Essence,Innisfree,29.96,4.08,620,Guardian
+Cleanser,Cetaphil,116.86,4.75,1777,Guardian
+Serum,Laneige,32.7,4.48,641,Lazada
+Mask,Cosrx,188.13,4.42,4566,Shopee
+Cleanser,Innisfree,157.94,4.0,2310,Watsons
+Mask,The Ordinary,138.43,4.73,2997,Guardian
+Cleanser,Neutrogena,168.3,3.56,397,Guardian
+Cleanser,Biore,136.55,4.81,215,Shopee
+Sunscreen,Neutrogena,194.41,4.27,4493,Watsons
+Sunscreen,Innisfree,148.51,4.1,2946,Shopee
+Toner,Innisfree,186.44,4.25,4543,Shopee
+Serum,Neutrogena,113.08,4.5,632,Guardian
+Moisturizer,Cosrx,41.07,3.52,3556,Guardian
+Moisturizer,Cosrx,115.07,4.81,4453,Lazada
+Moisturizer,SomeByMi,42.84,4.17,3088,Watsons
+Cleanser,The Ordinary,126.65,4.01,2895,Watsons
+Sunscreen,Cosrx,106.85,3.71,2816,Guardian
+Serum,The Ordinary,132.06,4.16,4244,Guardian
+Cleanser,The Ordinary,21.81,4.24,1315,Guardian
+Mask,Innisfree,55.07,4.11,4303,Watsons
+Sunscreen,The Ordinary,108.44,4.52,4699,Lazada
+Sunscreen,Biore,191.09,4.13,4796,Watsons
+Essence,Neutrogena,89.05,4.94,3017,Guardian
+Essence,SomeByMi,96.39,4.4,2324,Guardian
+Serum,Laneige,148.65,4.71,2520,Lazada
+Mask,HadaLabo,128.68,3.66,2340,Shopee
+Serum,SomeByMi,73.81,4.1,2627,Shopee
+Serum,Biore,93.95,4.01,3710,Watsons
+Cleanser,SomeByMi,59.19,4.35,1118,Shopee
+Toner,The Ordinary,193.88,4.79,2786,Shopee
+Serum,Innisfree,43.51,3.62,4879,Watsons
+Essence,HadaLabo,86.93,3.61,2000,Guardian
+Toner,Cosrx,24.65,4.78,141,Shopee
+Cleanser,Innisfree,59.92,3.82,3143,Guardian
+Toner,The Ordinary,160.48,4.5,2269,Watsons
+Moisturizer,The Ordinary,56.21,4.31,1437,Guardian
+Mask,HadaLabo,34.41,4.75,4324,Guardian
+Toner,HadaLabo,105.4,3.69,2335,Watsons
+Serum,Cetaphil,21.79,3.69,3256,Guardian
+Cleanser,Innisfree,35.26,4.34,2974,Shopee
+Mask,Cosrx,165.37,4.92,329,Shopee
+Serum,SomeByMi,158.87,4.12,1668,Shopee
+Mask,The Ordinary,184.72,3.99,2837,Shopee
+Essence,The Ordinary,173.81,4.41,420,Guardian
+Moisturizer,Cetaphil,142.97,4.9,3233,Shopee
+Essence,Innisfree,29.42,4.76,3884,Guardian
+Serum,Innisfree,160.91,4.99,1753,Lazada
+Serum,Neutrogena,172.19,3.53,2318,Guardian
+Serum,HadaLabo,163.83,3.67,353,Shopee
+Sunscreen,Cosrx,111.53,4.41,3824,Lazada
+Moisturizer,HadaLabo,61.92,4.73,1398,Watsons
+Mask,Cosrx,172.16,3.93,2472,Guardian
+Serum,Biore,150.89,3.86,3678,Shopee
+Serum,Laneige,196.54,4.68,2478,Shopee
+Mask,Cosrx,48.02,3.58,3083,Shopee
+Essence,HadaLabo,60.62,4.05,718,Watsons
+Essence,The Ordinary,58.12,4.26,549,Lazada
+Serum,HadaLabo,162.66,4.34,1464,Lazada
+Cleanser,Cosrx,53.64,4.59,579,Shopee
+Sunscreen,Innisfree,32.0,4.03,3671,Guardian
+Essence,HadaLabo,199.74,4.42,3506,Shopee
+Cleanser,Cetaphil,24.47,4.38,804,Shopee
+Sunscreen,Neutrogena,170.34,4.32,2397,Guardian
+Serum,The Ordinary,85.77,4.46,4960,Shopee
+Moisturizer,Cetaphil,171.49,3.89,776,Watsons
+Toner,Cosrx,119.83,3.63,4876,Shopee
+Toner,Biore,182.29,3.68,4973,Watsons
+Serum,Cetaphil,186.71,3.84,2699,Shopee
+Essence,Laneige,21.64,4.25,2096,Lazada
+Cleanser,Biore,33.57,4.76,2865,Guardian
+Moisturizer,SomeByMi,65.06,4.55,924,Lazada
+Mask,The Ordinary,140.48,4.68,3329,Shopee
+Sunscreen,SomeByMi,179.89,4.03,3034,Shopee
+Serum,HadaLabo,102.79,4.11,2228,Watsons
+Moisturizer,Cosrx,129.26,4.09,3857,Shopee
+Moisturizer,The Ordinary,53.93,3.79,657,Shopee
+Essence,Innisfree,164.89,3.59,684,Shopee
+Sunscreen,Biore,194.12,4.39,4629,Lazada
+Moisturizer,Innisfree,68.35,4.98,2777,Watsons
+Essence,SomeByMi,109.07,3.75,1124,Lazada
+Cleanser,Cetaphil,35.5,3.57,1964,Watsons
+Essence,Cetaphil,120.64,4.67,638,Lazada
+Cleanser,Cosrx,110.5,3.88,3281,Shopee
+Cleanser,SomeByMi,46.0,4.74,2354,Lazada
+Mask,Neutrogena,99.57,4.56,3888,Lazada
+Mask,The Ordinary,80.14,4.92,2023,Watsons
+Moisturizer,Biore,113.93,4.11,2105,Watsons
+Essence,Cetaphil,125.42,4.49,3530,Lazada
+Mask,Cetaphil,21.53,4.2,2129,Watsons
+Cleanser,Innisfree,156.98,4.45,3102,Watsons
+Mask,Innisfree,148.34,4.17,4532,Watsons
+Sunscreen,HadaLabo,85.93,3.78,1301,Guardian
+Moisturizer,Neutrogena,29.53,4.26,3845,Watsons
+Essence,Innisfree,155.89,4.29,3872,Guardian
+Essence,Innisfree,191.93,4.72,4352,Guardian
+Toner,The Ordinary,63.23,4.6,3439,Watsons
+Essence,Innisfree,78.23,4.5,1830,Lazada
+Moisturizer,Biore,53.09,3.67,2654,Watsons
+Sunscreen,The Ordinary,123.85,4.58,3738,Shopee
+Essence,HadaLabo,47.87,4.25,4938,Lazada
+Toner,SomeByMi,84.11,4.84,1774,Guardian
+Moisturizer,The Ordinary,145.46,4.88,2834,Guardian
+Cleanser,SomeByMi,120.82,3.58,3769,Lazada
+Serum,Cetaphil,89.56,4.73,1727,Lazada
+Serum,HadaLabo,95.64,3.56,498,Watsons
+Cleanser,HadaLabo,121.18,4.05,4737,Guardian
+Mask,The Ordinary,21.06,4.31,131,Shopee
+Essence,Laneige,34.13,3.72,1456,Watsons
+Serum,HadaLabo,178.63,4.62,1530,Lazada
+Mask,SomeByMi,34.02,3.51,1129,Guardian
+Serum,HadaLabo,147.22,3.75,3648,Lazada
+Cleanser,Cetaphil,185.61,4.37,4564,Lazada
+Essence,Biore,68.72,4.57,4233,Lazada
+Essence,Laneige,86.69,4.87,3730,Watsons
+Mask,Cosrx,122.41,4.56,2753,Shopee
+Cleanser,HadaLabo,178.71,4.51,4360,Shopee
+Mask,Innisfree,189.54,4.09,3806,Guardian
+Essence,The Ordinary,153.12,3.5,1808,Lazada
+Essence,The Ordinary,35.59,3.68,2649,Shopee
+Moisturizer,The Ordinary,140.45,4.3,2600,Lazada
+Mask,Neutrogena,93.85,4.51,3903,Guardian
+Moisturizer,Laneige,104.73,4.13,2796,Lazada
+Cleanser,Laneige,28.85,4.6,2342,Shopee
+Sunscreen,SomeByMi,54.39,4.28,1551,Lazada
+Serum,HadaLabo,162.29,3.61,4454,Shopee
+Moisturizer,Cosrx,101.71,3.79,280,Guardian
+Serum,The Ordinary,74.3,4.76,4300,Lazada
+Toner,HadaLabo,89.12,4.59,1248,Shopee
+Cleanser,Laneige,173.79,4.84,164,Guardian
+Sunscreen,Cetaphil,154.82,3.68,1463,Lazada
+Toner,The Ordinary,69.02,4.99,4456,Guardian
+Toner,HadaLabo,41.15,3.81,1042,Shopee
+Essence,Laneige,65.36,3.52,2397,Lazada
+Toner,Biore,185.74,5.0,1091,Lazada
+Cleanser,Laneige,124.69,3.92,61,Lazada
+Moisturizer,Innisfree,116.03,4.5,3726,Guardian
+Cleanser,Neutrogena,127.35,3.77,4875,Guardian
+Moisturizer,Neutrogena,85.89,4.37,3115,Shopee
+Toner,The Ordinary,165.28,4.86,2086,Watsons
+Toner,Biore,114.19,3.98,3096,Lazada
+Sunscreen,Biore,41.01,4.51,2400,Lazada
+Moisturizer,The Ordinary,43.23,3.78,590,Shopee
+Toner,HadaLabo,116.63,4.44,2910,Lazada
+Essence,The Ordinary,188.58,4.0,126,Guardian
+Serum,Cosrx,75.5,3.82,3117,Guardian
+Sunscreen,Cosrx,176.52,3.97,73,Lazada
+Cleanser,Neutrogena,157.54,3.77,725,Lazada
+Sunscreen,Laneige,64.61,4.85,2444,Guardian
+Serum,The Ordinary,26.54,4.1,4317,Lazada
+Moisturizer,The Ordinary,38.33,3.87,3448,Guardian
+Cleanser,HadaLabo,151.13,4.17,2809,Watsons
+Cleanser,SomeByMi,55.94,3.98,538,Watsons
+Moisturizer,Neutrogena,86.83,4.62,1535,Lazada
+Mask,Neutrogena,110.31,4.96,3709,Lazada
+Mask,Neutrogena,150.58,4.16,3285,Lazada
+Sunscreen,Laneige,40.38,4.79,2469,Guardian
+Toner,Cetaphil,93.15,4.35,3545,Watsons
+Mask,SomeByMi,107.31,3.74,806,Watsons
+Sunscreen,Laneige,117.35,4.54,2574,Shopee
+Mask,Cosrx,167.3,4.27,4300,Shopee
+Serum,HadaLabo,50.9,4.48,306,Lazada
+Essence,Cosrx,165.41,4.83,1829,Guardian
+Toner,Biore,144.72,4.16,4819,Lazada
+Sunscreen,Neutrogena,120.06,4.85,2165,Watsons
+Essence,Innisfree,145.92,4.63,3398,Lazada
+Essence,Neutrogena,94.16,4.23,4818,Lazada
+Mask,Neutrogena,44.91,4.4,1522,Watsons
+Moisturizer,HadaLabo,139.84,3.99,308,Watsons
+Serum,SomeByMi,114.44,4.98,4125,Watsons
+Serum,Cosrx,135.09,4.5,356,Watsons
+Serum,Biore,80.84,3.57,1168,Shopee
+Toner,Neutrogena,183.24,3.99,3067,Guardian
+Cleanser,The Ordinary,125.73,4.43,4391,Guardian
+Toner,Cetaphil,35.37,3.58,2830,Watsons
+Sunscreen,The Ordinary,100.96,3.54,1708,Guardian
+Essence,The Ordinary,156.14,4.18,236,Guardian
+Essence,HadaLabo,162.94,4.0,1847,Guardian
+Cleanser,Innisfree,109.03,4.16,974,Guardian
+Sunscreen,Innisfree,181.05,3.89,834,Watsons
+Cleanser,Cosrx,68.18,3.75,3494,Lazada
+Essence,Innisfree,93.91,4.53,3246,Lazada
+Mask,The Ordinary,181.75,4.27,1410,Lazada
+Toner,HadaLabo,181.33,3.8,390,Shopee
+Serum,Biore,143.43,3.98,612,Guardian
+Essence,Cosrx,174.62,4.39,4796,Watsons
+Moisturizer,Laneige,35.98,3.61,3049,Watsons
+Serum,Biore,175.7,3.72,1243,Shopee
+Essence,SomeByMi,77.71,3.61,3160,Watsons
+Toner,SomeByMi,52.1,4.72,118,Lazada
+Cleanser,SomeByMi,63.09,4.63,2478,Shopee
+Mask,SomeByMi,95.23,4.63,3648,Watsons
+Mask,HadaLabo,65.21,4.57,2422,Shopee
+Serum,Biore,77.7,4.5,4606,Shopee
+Toner,Neutrogena,44.3,4.22,893,Watsons
+Mask,Cetaphil,73.31,4.46,623,Lazada
+Mask,Cosrx,123.01,3.56,4264,Watsons
+Sunscreen,Laneige,99.53,4.43,2646,Guardian
+Moisturizer,The Ordinary,82.41,4.67,4791,Guardian
+Serum,SomeByMi,154.36,4.25,1528,Watsons
+Cleanser,Laneige,180.83,4.04,2123,Lazada
+Mask,Cetaphil,156.22,3.92,1563,Guardian
+Sunscreen,Laneige,79.76,4.46,1018,Guardian
+Toner,Biore,154.0,4.54,2246,Watsons
+Mask,Laneige,47.36,4.81,1561,Watsons
+Moisturizer,SomeByMi,43.46,4.01,704,Watsons
+Cleanser,Cetaphil,82.21,4.65,3042,Shopee
+Toner,The Ordinary,165.39,4.34,4700,Shopee
+Toner,Neutrogena,64.34,4.82,4570,Shopee
+Serum,Innisfree,31.39,4.29,342,Watsons
+Mask,SomeByMi,43.71,4.28,2651,Lazada
+Serum,Cetaphil,174.57,4.37,4576,Guardian
+Cleanser,Biore,134.08,4.62,4462,Shopee
+Mask,HadaLabo,65.58,4.95,4543,Lazada
+Essence,Cetaphil,119.95,3.61,1638,Watsons
+Mask,Innisfree,114.96,3.58,645,Shopee
+Essence,Innisfree,137.98,4.91,2643,Watsons
+Toner,Cosrx,61.97,4.29,2173,Lazada
+Serum,Neutrogena,175.59,4.42,1993,Shopee
+Moisturizer,Innisfree,75.69,4.22,965,Shopee
+Mask,Cosrx,144.94,3.64,3919,Shopee
+Moisturizer,Cosrx,22.9,4.65,2844,Shopee
+Mask,Cosrx,87.08,4.62,3128,Lazada
+Toner,Cetaphil,83.31,3.97,1025,Shopee
+Serum,Cosrx,117.83,3.96,1125,Guardian
+Cleanser,SomeByMi,33.09,4.76,3039,Guardian
+Cleanser,SomeByMi,162.22,3.61,3517,Watsons
+Cleanser,HadaLabo,59.2,4.82,1501,Shopee
+Mask,Innisfree,141.87,3.88,3873,Guardian
+Mask,Neutrogena,164.58,4.39,3982,Guardian
+Moisturizer,Cosrx,121.14,4.9,2078,Guardian
+Serum,Biore,153.36,4.52,412,Lazada
+Mask,Biore,139.13,4.12,2479,Shopee
+Serum,Innisfree,84.0,4.53,3682,Lazada
+Moisturizer,HadaLabo,165.59,4.02,2368,Lazada
+Mask,Biore,73.05,3.92,3135,Guardian
+Cleanser,SomeByMi,122.82,5.0,2395,Guardian
+Cleanser,Laneige,154.17,4.63,3648,Watsons
+Toner,Cetaphil,88.21,4.47,4379,Shopee
+Essence,The Ordinary,74.5,4.03,1781,Shopee
+Sunscreen,Biore,102.68,3.57,76,Guardian
+Essence,Neutrogena,167.23,3.55,142,Guardian
+Mask,Cosrx,187.39,4.33,2714,Shopee
+Serum,Neutrogena,118.12,4.64,358,Watsons
+Mask,Cetaphil,139.06,4.31,101,Guardian
+Serum,SomeByMi,182.59,4.76,368,Watsons
+Serum,HadaLabo,37.74,3.55,2042,Lazada
+Essence,Cetaphil,61.77,4.05,4326,Guardian
+Sunscreen,The Ordinary,147.6,3.86,3941,Lazada
+Toner,Laneige,168.27,4.17,4792,Guardian
+Essence,Biore,174.27,3.61,4006,Lazada
+Sunscreen,HadaLabo,94.72,4.93,2742,Guardian
+Cleanser,HadaLabo,36.08,3.83,3068,Watsons
+Cleanser,Biore,98.8,4.88,2074,Watsons
+Serum,Biore,61.53,4.14,4481,Watsons
+Moisturizer,Biore,72.42,4.98,1575,Lazada
+Mask,Biore,159.01,4.33,1328,Watsons
+Mask,Biore,33.59,4.9,563,Lazada
+Serum,HadaLabo,168.96,3.51,4387,Guardian
+Moisturizer,Innisfree,96.98,4.62,1783,Lazada
+Sunscreen,Innisfree,127.29,4.85,3420,Guardian
+Cleanser,Neutrogena,36.14,3.71,3971,Shopee
+Mask,Innisfree,80.72,3.64,2550,Shopee
+Essence,The Ordinary,36.15,4.14,3514,Shopee
+Moisturizer,Innisfree,193.08,4.9,2309,Lazada
+Sunscreen,HadaLabo,165.31,4.31,4813,Shopee
+Cleanser,Biore,102.73,4.29,4739,Shopee
+Essence,Cosrx,60.25,3.71,2709,Shopee
+Moisturizer,Cosrx,188.02,3.5,305,Guardian
+Serum,The Ordinary,82.03,4.72,1552,Watsons
+Serum,HadaLabo,48.98,3.63,4706,Lazada
+Serum,SomeByMi,121.37,4.45,2160,Shopee
+Mask,Cetaphil,189.88,4.87,456,Guardian
+Sunscreen,Neutrogena,20.69,3.81,2899,Watsons
+Serum,SomeByMi,62.86,4.5,3226,Watsons
+Mask,HadaLabo,188.92,3.62,1910,Watsons
+Toner,Innisfree,50.8,4.41,4404,Guardian
+Mask,Biore,40.38,3.75,772,Shopee
+Cleanser,SomeByMi,122.63,4.6,1332,Watsons
+Mask,Cetaphil,175.13,3.95,663,Guardian
+Sunscreen,Cosrx,105.88,4.2,3381,Guardian
+Essence,Cetaphil,199.02,4.4,3166,Lazada
+Mask,Biore,142.25,3.76,2028,Guardian
+Serum,Innisfree,33.33,4.61,862,Watsons
+Cleanser,Cetaphil,198.71,3.95,1836,Watsons
+Moisturizer,Neutrogena,93.42,4.49,380,Guardian
+Serum,Cetaphil,71.73,3.74,2262,Watsons
+Cleanser,HadaLabo,120.42,4.53,1266,Guardian
+Toner,Innisfree,74.78,3.69,4532,Watsons
+Moisturizer,Biore,35.56,4.14,3387,Lazada
+Toner,Cosrx,20.26,3.87,2425,Shopee
+Essence,Cosrx,100.93,4.62,1290,Lazada
+Cleanser,Cetaphil,170.64,3.89,369,Lazada
+Toner,HadaLabo,123.02,4.82,4544,Shopee
+Essence,SomeByMi,199.86,4.84,1964,Watsons
+Cleanser,SomeByMi,71.63,3.79,4250,Shopee
+Cleanser,HadaLabo,70.48,4.42,4841,Guardian
+Toner,Neutrogena,48.75,3.63,379,Shopee
+Cleanser,SomeByMi,49.53,4.09,709,Lazada
+Serum,SomeByMi,71.33,4.57,3738,Shopee
+Cleanser,Biore,162.71,4.49,3168,Watsons
+Sunscreen,Biore,183.04,4.44,4966,Lazada
+Essence,Innisfree,195.52,3.92,2022,Guardian
+Cleanser,Neutrogena,61.81,4.07,1843,Watsons
+Sunscreen,Neutrogena,178.63,3.65,3268,Lazada
+Cleanser,Innisfree,79.09,4.58,4607,Guardian
+Cleanser,Neutrogena,40.31,4.26,2583,Watsons
+Toner,The Ordinary,176.6,4.56,2507,Guardian
+Serum,Laneige,134.5,3.87,3150,Shopee
+Essence,Biore,49.65,3.99,4416,Shopee
+Serum,Innisfree,97.37,4.0,2783,Guardian
+Moisturizer,Innisfree,71.71,3.54,4530,Shopee
+Toner,Neutrogena,152.62,4.01,4205,Guardian
+Toner,SomeByMi,101.61,4.7,269,Watsons
+Serum,Cosrx,198.07,4.85,2868,Lazada
+Mask,Cetaphil,29.85,4.28,1956,Guardian
+Toner,Cetaphil,83.9,4.18,2661,Lazada
+Serum,Innisfree,106.74,3.55,2643,Lazada
+Toner,The Ordinary,110.56,4.82,145,Guardian
+Cleanser,Innisfree,76.87,3.52,1038,Shopee
+Serum,Biore,151.26,4.92,1162,Watsons
+Serum,Neutrogena,177.45,4.23,2328,Lazada
+Sunscreen,Neutrogena,188.97,4.01,295,Watsons
+Toner,The Ordinary,164.92,4.89,2208,Lazada
+Toner,Biore,173.1,3.54,4379,Guardian
+Serum,Cosrx,119.1,4.37,3399,Shopee
+Cleanser,SomeByMi,168.66,4.32,2775,Watsons
+Cleanser,Biore,74.63,3.83,4127,Lazada
+Essence,HadaLabo,91.73,4.14,4948,Guardian
+Cleanser,Laneige,77.04,4.48,2716,Guardian
+Toner,Innisfree,104.13,4.59,3249,Lazada
+Mask,HadaLabo,71.4,3.5,2804,Lazada
+Sunscreen,The Ordinary,193.09,4.91,1467,Lazada
+Serum,HadaLabo,76.31,3.75,704,Shopee
+Moisturizer,Neutrogena,37.65,3.85,2492,Lazada
+Sunscreen,SomeByMi,114.83,3.9,160,Lazada
+Mask,Cetaphil,30.28,3.56,139,Shopee
+Moisturizer,Innisfree,39.9,3.68,812,Guardian
+Sunscreen,Cetaphil,59.49,4.98,3222,Lazada
+Cleanser,Neutrogena,103.58,3.97,2229,Watsons
+Toner,Neutrogena,97.99,3.67,2554,Guardian
+Mask,Innisfree,163.94,3.66,1514,Watsons
+Moisturizer,Cetaphil,153.11,4.58,147,Lazada
+Mask,Biore,96.74,4.78,342,Shopee
+Sunscreen,Neutrogena,80.07,3.89,1889,Shopee
+Toner,Cetaphil,76.96,3.53,1784,Shopee
+Mask,Cosrx,159.32,3.83,2669,Lazada
+Moisturizer,Cetaphil,29.37,3.58,4797,Lazada
