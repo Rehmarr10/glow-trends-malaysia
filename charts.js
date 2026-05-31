@@ -88,7 +88,7 @@ window.addEventListener("DOMContentLoaded", function () {
     var chart2 = {
         "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
         ...commonConfig,
-        data: { url: "Data/malaysia_skincare_survey_large.csv" },
+        data: { url: "data/malaysia_skincare_survey_large.csv" },
         transform: [
             {
                 aggregate: [{ op: "count", as: "Respondents" }],
@@ -158,7 +158,7 @@ window.addEventListener("DOMContentLoaded", function () {
     var chart3 = {
         "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
         ...commonConfig,
-        data: { url: "Data/malaysia_beauty_products_large.csv" },
+        data: { url: "data/malaysia_beauty_products_large.csv" },
         transform: [
             {
                 aggregate: [{ op: "mean", field: "Rating", as: "Average_Rating" }],
@@ -229,7 +229,7 @@ window.addEventListener("DOMContentLoaded", function () {
     var chart4 = {
         "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
         ...commonConfig,
-        data: { url: "Data/malaysia_skincare_survey_large.csv" },
+        data: { url: "data/malaysia_skincare_survey_large.csv" },
         mark: "rect",
         encoding: {
             x: {
@@ -262,7 +262,7 @@ window.addEventListener("DOMContentLoaded", function () {
     var chart6 = {
         "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
         ...commonConfig,
-        data: { url: "Data/malaysia_beauty_products_large.csv" },
+        data: { url: "data/malaysia_beauty_products_large.csv" },
         mark: {
             type: "bar",
             cornerRadiusEnd: 4
@@ -297,7 +297,7 @@ window.addEventListener("DOMContentLoaded", function () {
     var chart7 = {
         "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
         ...commonConfig,
-        data: { url: "Data/malaysia_skincare_survey_large.csv" },
+        data: { url: "data/malaysia_skincare_survey_large.csv" },
         mark: {
             type: "bar",
             cornerRadiusEnd: 6
@@ -332,7 +332,7 @@ window.addEventListener("DOMContentLoaded", function () {
     var chart8 = {
         "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
         ...commonConfig,
-        data: { url: "Data/malaysia_skincare_survey_large.csv" },
+        data: { url: "data/malaysia_skincare_survey_large.csv" },
         mark: {
             type: "line",
             point: { filled: true, size: 90 },
@@ -370,7 +370,7 @@ window.addEventListener("DOMContentLoaded", function () {
     var chart9 = {
         "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
         ...commonConfig,
-        data: { url: "Data/malaysia_beauty_products_large.csv" },
+        data: { url: "data/malaysia_beauty_products_large.csv" },
         mark: {
             type: "bar",
             cornerRadiusEnd: 6,
@@ -401,7 +401,7 @@ window.addEventListener("DOMContentLoaded", function () {
     var chart10 = {
         "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
         ...commonConfig,
-        data: { url: "Data/malaysia_beauty_products_large.csv" },
+        data: { url: "data/malaysia_beauty_products_large.csv" },
         mark: {
             type: "boxplot",
             extent: "min-max",
