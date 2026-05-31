@@ -43,9 +43,7 @@ window.addEventListener("DOMContentLoaded", function () {
         "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
         ...commonConfig,
         data: { url: surveyData },
-        transform: [
-            { aggregate: [{ op: "count", as: "Respondents" }], groupby: ["Main_Skin_Concern"] }
-        ],
+        transform: [{ aggregate: [{ op: "count", as: "Respondents" }], groupby: ["Main_Skin_Concern"] }],
         mark: { type: "circle", opacity: 0.85, stroke: "#ffffff", strokeWidth: 2 },
         encoding: {
             x: { field: "Main_Skin_Concern", type: "nominal", title: "Skin Concern", axis: { labelAngle: -25 } },
@@ -195,17 +193,41 @@ window.addEventListener("DOMContentLoaded", function () {
         "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
         ...commonConfig,
         data: { url: productData },
-        mark: { type: "bar", cornerRadiusEnd: 6, color: "#c94f8a" },
+        mark: { type: "circle", opacity: 0.82, stroke: "#ffffff", strokeWidth: 2 },
         encoding: {
-            y: { field: "Brand", type: "nominal", title: "Brand", sort: "-x" },
-            x: { field: "Number_of_Reviews", aggregate: "sum", type: "quantitative", title: "Total Reviews" },
+            x: {
+                field: "Rating",
+                type: "quantitative",
+                title: "Customer Rating",
+                scale: { domain: [3, 5] }
+            },
+            y: {
+                field: "Number_of_Reviews",
+                type: "quantitative",
+                title: "Number of Reviews"
+            },
+            size: {
+                field: "Price_RM",
+                type: "quantitative",
+                title: "Price RM",
+                scale: { range: [80, 650] }
+            },
+            color: {
+                field: "Product_Category",
+                type: "nominal",
+                title: "Product Category",
+                scale: productScale
+            },
             tooltip: [
                 { field: "Brand", type: "nominal", title: "Brand" },
-                { field: "Number_of_Reviews", aggregate: "sum", type: "quantitative", title: "Total Reviews" }
+                { field: "Product_Category", type: "nominal", title: "Category" },
+                { field: "Rating", type: "quantitative", title: "Rating", format: ".2f" },
+                { field: "Number_of_Reviews", type: "quantitative", title: "Reviews" },
+                { field: "Price_RM", type: "quantitative", title: "Price RM" }
             ]
         },
         width: 340,
-        height: 250
+        height: 260
     };
 
     var chart10 = {
