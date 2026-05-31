@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Glow Trends Malaysia</title>
 
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="css/style.css">
 
     <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
     <script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
@@ -18,193 +18,387 @@
     <header class="hero">
         <p class="tagline">Beauty • Skincare • Malaysia</p>
 
-        <h1>Glow Trends Malaysia</h1>
+        <h1>Glow Trends <em>Malaysia</em></h1>
 
         <p class="intro">
-            This visualisation explores skincare behaviour, shopping patterns, product preferences,
-            and beauty spending trends among consumers in Malaysia.
+            A data story on how Malaysian consumers discover, evaluate, and purchase skincare
+            products across concerns, platforms, categories, prices, and regions.
         </p>
 
         <p class="intro-small">
-            It highlights how skin concerns, purchase channels, product categories,
-            and regional spending patterns shape the Malaysian beauty market.
+            By combining survey responses with beauty product data, this dashboard reveals
+            what drives skincare choices in Malaysia and where the strongest consumer patterns appear.
         </p>
+
+        <div class="stat-row">
+            <div class="stat-card">
+                <strong>1,200+</strong>
+                <span>Survey responses analysed</span>
+            </div>
+
+            <div class="stat-card">
+                <strong>8</strong>
+                <span>Malaysian regions compared</span>
+            </div>
+
+            <div class="stat-card">
+                <strong>10</strong>
+                <span>Visualisations used</span>
+            </div>
+
+            <div class="stat-card">
+                <strong>RM 223</strong>
+                <span>Average skincare spending</span>
+            </div>
+        </div>
 
         <div class="control-panel">
             <button id="themeToggle">Dark Mode</button>
-            <button onclick="scrollToSection('chart5')">View Map</button>
+            <button onclick="scrollToSection('map-section')">View Map</button>
             <button onclick="scrollToSection('chart10')">View Price Analysis</button>
             <button onclick="scrollToSection('metadata')">View Metadata</button>
         </div>
     </header>
 
-    <section class="story-box">
-        <h2>Visualisation Purpose</h2>
-
-        <p class="source-text">
-            Glow Trends Malaysia investigates how Malaysian consumers engage with skincare
-            and beauty products. The visualisation focuses on common skin concerns,
-            shopping channels, product preferences, regional spending, and product pricing.
-        </p>
-
-        <p class="source-text">
-            The target audience includes Malaysian skincare consumers, beauty retailers,
-            and marketers who want to understand consumer behaviour across categories
-            and regions.
-        </p>
-    </section>
-
     <section>
-        <h2>1. What Skin Concerns Are Most Common?</h2>
-        <p class="desc">This chart shows the most common skin concerns among Malaysian skincare consumers.</p>
-        <div class="chart-box wide-box" id="chart1"></div>
-        <p class="insight">
-            Acne, pigmentation, dryness, and sensitivity appear as important skincare concerns.
-            This suggests demand for products linked to oil control, brightening, hydration,
-            and skin barrier repair.
+        <h2>1. Which Skin Concerns Are Most Common?</h2>
+
+        <p class="desc">
+            This bubble chart highlights the skincare concerns most frequently mentioned by
+            Malaysian consumers. Larger circles represent concerns reported more often,
+            helping identify the needs that most strongly shape skincare purchasing behaviour.
         </p>
+
+        <div class="chart-box wide-box" id="chart1"></div>
+
+        <div class="insight-card">
+            <strong>Insight:</strong> Acne, dryness, sensitivity and pigmentation appear as
+            important skincare concerns. This suggests demand for products linked to oil control,
+            hydration, brightening and skin-barrier repair.
+        </div>
     </section>
 
     <div class="two-column">
         <section>
             <h2>2. Where Do Consumers Buy Skincare?</h2>
-            <p class="desc">This donut chart shows where Malaysians commonly buy skincare products.</p>
-            <div class="chart-box" id="chart2"></div>
-            <p class="insight">
-                Purchase channels show how skincare access is shaped by online platforms
-                and pharmacy retailers. This helps explain the role of convenience and trust.
+
+            <p class="desc">
+                This donut chart compares the share of skincare purchases across major shopping
+                channels. It shows whether consumers rely more on online platforms or pharmacy
+                retailers when buying beauty products.
             </p>
+
+            <div class="chart-box" id="chart2"></div>
+
+            <div class="insight-card">
+                <strong>Insight:</strong> Purchase channels reveal how convenience, trust and
+                platform access influence where Malaysian consumers choose to buy skincare.
+            </div>
         </section>
 
         <section>
-            <h2>3. Do Higher Prices Mean Better Ratings?</h2>
-            <p class="desc">This scatter plot compares product prices with customer ratings.</p>
-            <div class="chart-box" id="chart3"></div>
-            <p class="insight">
-                Click a product category in the legend to focus the scatter plot.
-                This helps compare whether higher-priced products are strongly linked
-                to better ratings.
+            <h2>3. Which Product Categories Receive the Best Ratings?</h2>
+
+            <p class="desc">
+                This lollipop chart ranks beauty product categories by average customer rating.
+                It supports quick comparison of satisfaction levels across product types.
             </p>
+
+            <div class="chart-box" id="chart3"></div>
+
+            <div class="insight-card">
+                <strong>Insight:</strong> Rating differences help show which categories are
+                perceived as more effective or satisfying by consumers.
+            </div>
         </section>
     </div>
 
     <section>
         <h2>4. How Do Skin Concerns Differ by Region?</h2>
-        <p class="desc">This heatmap shows how skin concerns differ across Malaysian regions.</p>
-        <div class="chart-box wide-box" id="chart4"></div>
-        <p class="insight">
-            The heatmap supports regional comparison by showing where certain concerns
-            appear more frequently. This helps connect skincare demand with location.
+
+        <p class="desc">
+            This heatmap compares skincare concerns across Malaysian regions. Colour intensity
+            shows where each concern appears more frequently, allowing regional patterns to be
+            compared within one visual.
         </p>
+
+        <div class="chart-box wide-box" id="chart4"></div>
+
+        <div class="insight-card">
+            <strong>Insight:</strong> Regional differences suggest that skincare needs are not
+            uniform across Malaysia. Climate, lifestyle and access to products may influence
+            the concerns consumers report.
+        </div>
+    </section>
+
+    <section id="map-section">
+        <h2>5. Regional Skincare Spending Map</h2>
+
+        <p class="desc">
+            This coded choropleth-style geographic map compares average skincare spending across
+            selected Malaysian regions. Colour intensity represents spending levels, making
+            regional differences easier to identify.
+        </p>
+
+        <div class="chart-box wide-box">
+            <svg viewBox="0 0 1000 560" width="100%" height="520"
+                style="font-family: Arial; background:white; border-radius:22px;">
+
+                <style>
+                    .state {
+                        stroke: white;
+                        stroke-width: 4;
+                        cursor: pointer;
+                        filter: drop-shadow(0 4px 8px rgba(132, 94, 194, .22));
+                        transition: .2s;
+                    }
+
+                    .state:hover {
+                        opacity: .75;
+                        transform: scale(1.015);
+                    }
+
+                    .label {
+                        font-weight: 700;
+                        fill: white;
+                        font-size: 16px;
+                        pointer-events: none;
+                    }
+
+                    .small {
+                        fill: white;
+                        font-size: 14px;
+                        pointer-events: none;
+                    }
+                </style>
+
+                <text x="300" y="45" font-size="24" font-weight="bold" fill="#8f2d61">
+                    Average Skincare Spending by Malaysian Region
+                </text>
+
+                <text x="385" y="75" font-size="15" fill="#6b5260">
+                    Hover over each region to view spending
+                </text>
+
+                <path class="state"
+                    d="M170 95 L245 115 L285 175 L270 245 L230 310 L165 285 L125 220 L135 140 Z"
+                    fill="#f7b4cf">
+                    <title>Penang — RM 217 average monthly spending</title>
+                </path>
+                <text x="165" y="160" class="label" fill="#2f1b26">Penang</text>
+                <text x="165" y="182" class="small" fill="#2f1b26">RM 217</text>
+
+                <path class="state" d="M245 115 L340 135 L380 200 L350 280 L270 245 L285 175 Z"
+                    fill="#d64f93">
+                    <title>Perak — RM 221 average monthly spending</title>
+                </path>
+                <text x="295" y="205" class="label">Perak</text>
+                <text x="300" y="226" class="small">RM 221</text>
+
+                <path class="state" d="M165 285 L230 310 L270 245 L350 280 L330 360 L250 400 L175 360 Z"
+                    fill="#cf4f8f">
+                    <title>Selangor — RM 218 average monthly spending</title>
+                </path>
+                <text x="215" y="330" class="label">Selangor</text>
+                <text x="238" y="352" class="small">RM 218</text>
+
+                <circle class="state" cx="315" cy="315" r="20" fill="#f7b267">
+                    <title>Kuala Lumpur — RM 205 average monthly spending</title>
+                </circle>
+
+                <line x1="335" y1="315" x2="405" y2="300" stroke="#8f2d61" stroke-width="2" />
+                <text x="415" y="298" font-size="14" font-weight="bold" fill="#2f1b26">Kuala Lumpur</text>
+                <text x="415" y="318" font-size="13" fill="#2f1b26">RM 205</text>
+
+                <path class="state" d="M250 400 L330 360 L390 410 L360 485 L265 470 L220 425 Z"
+                    fill="#d95b9b">
+                    <title>Negeri Sembilan — RM 220 average monthly spending</title>
+                </path>
+                <text x="270" y="425" class="label">Negeri</text>
+                <text x="258" y="445" class="label">Sembilan</text>
+                <text x="285" y="465" class="small">RM 220</text>
+
+                <path class="state" d="M360 485 L390 410 L475 430 L510 500 L450 535 Z" fill="#d95b9b">
+                    <title>Johor — RM 220 average monthly spending</title>
+                </path>
+                <text x="425" y="485" class="label">Johor</text>
+                <text x="430" y="507" class="small">RM 220</text>
+
+                <path class="state" d="M560 330 L650 280 L760 285 L825 245 L885 280 L850 345 L740 375 L640 390 Z"
+                    fill="#b056c4">
+                    <title>Sarawak — RM 235 average monthly spending</title>
+                </path>
+                <text x="670" y="345" class="label">Sarawak</text>
+                <text x="690" y="368" class="small">RM 235</text>
+
+                <path class="state" d="M760 150 L890 135 L940 190 L915 255 L825 245 L760 285 L700 250 L710 180 Z"
+                    fill="#845ec2">
+                    <title>Sabah — RM 243 average monthly spending</title>
+                </path>
+                <text x="805" y="210" class="label">Sabah</text>
+                <text x="810" y="233" class="small">RM 243</text>
+
+                <rect x="800" y="55" width="150" height="70" rx="15" fill="#fff7fb" stroke="#ffc1dc"
+                    stroke-width="2" />
+                <text x="835" y="82" font-size="13" fill="#5c2d42">Malaysia Average</text>
+                <text x="845" y="110" font-size="24" font-weight="bold" fill="#c94f8a">RM 223</text>
+
+                <text x="650" y="475" font-size="14" font-weight="bold" fill="#2f1b26">
+                    Average Monthly Spending (RM)
+                </text>
+
+                <rect x="650" y="490" width="70" height="18" fill="#f7b4cf" />
+                <rect x="720" y="490" width="70" height="18" fill="#d64f93" />
+                <rect x="790" y="490" width="70" height="18" fill="#b056c4" />
+                <rect x="860" y="490" width="70" height="18" fill="#845ec2" />
+
+                <text x="650" y="525" font-size="12">205–217</text>
+                <text x="720" y="525" font-size="12">218–221</text>
+                <text x="790" y="525" font-size="12">222–235</text>
+                <text x="860" y="525" font-size="12">236–243</text>
+
+                <text x="50" y="520" font-size="13" fill="#6b5260">
+                    Data source: Malaysian skincare survey data, 2024
+                </text>
+            </svg>
+        </div>
+
+        <div class="insight-card">
+            <strong>Insight:</strong> Sabah and Sarawak show stronger average spending,
+            suggesting that skincare demand may vary by region rather than being evenly
+            distributed across Malaysia.
+        </div>
+    </section>
+
+    <section>
+        <h2>6. How Do Product Categories Differ Across Platforms?</h2>
+
+        <p class="desc">
+            This stacked bar chart compares product category distributions across major shopping
+            platforms. It highlights how different retailers may support different beauty shopping needs.
+        </p>
+
+        <div class="chart-box wide-box" id="chart6"></div>
+
+        <div class="insight-card">
+            <strong>Insight:</strong> Platform differences help show whether consumers use certain
+            channels for everyday skincare products, targeted treatments or wider product variety.
+        </div>
     </section>
 
     <div class="two-column">
         <section>
-            <h2>5. Regional Skincare Spending Map</h2>
-            <p class="desc">This proportional symbol map shows average skincare spending across Malaysia.</p>
-            <div class="chart-box" id="chart5"></div>
-            <p class="insight">
-                Regional spending patterns suggest that skincare behaviour is not uniform.
-                Higher spending regions may reflect urban demand, product access,
-                or stronger retail exposure.
-            </p>
-        </section>
-
-        <section>
-            <h2>6. How Product Categories Differ Across Platforms</h2>
-            <p class="desc">This stacked bar chart compares beauty product categories across shopping platforms.</p>
-            <div class="chart-box" id="chart6"></div>
-            <p class="insight">
-                Product categories across platforms show how online and retail channels
-                may appeal to different beauty shopping needs.
-            </p>
-        </section>
-    </div>
-
-    <div class="two-column">
-        <section>
             <h2>7. Which Product Types Are Preferred?</h2>
-            <p class="desc">This horizontal bar chart shows which skincare products are most preferred.</p>
-            <div class="chart-box" id="chart7"></div>
-            <p class="insight">
-                Preferred product types reveal the routines consumers may prioritise,
-                such as cleansing, moisturising, sun protection, or targeted treatments.
+
+            <p class="desc">
+                This horizontal bar chart ranks skincare product types by consumer preference.
+                It shows which routines or product categories receive the most attention.
             </p>
+
+            <div class="chart-box" id="chart7"></div>
+
+            <div class="insight-card">
+                <strong>Insight:</strong> Preferred product types reveal the routines consumers may
+                prioritise, such as cleansing, moisturising, sun protection or targeted treatments.
+            </div>
         </section>
 
         <section>
             <h2>8. How Does Spending Change by Age Group?</h2>
-            <p class="desc">This line chart shows average monthly skincare spending across different age groups.</p>
-            <div class="chart-box" id="chart8"></div>
-            <p class="insight">
-                Spending by age group helps show whether skincare purchases are stronger among
-                younger or older consumers. This adds a trend-style comparison to the dashboard.
+
+            <p class="desc">
+                This line chart compares average monthly skincare spending across age groups.
+                It adds a trend-style comparison between younger and older consumers.
             </p>
+
+            <div class="chart-box" id="chart8"></div>
+
+            <div class="insight-card">
+                <strong>Insight:</strong> Spending by age group helps show whether skincare purchases
+                are stronger among younger consumers, older consumers or remain relatively stable.
+            </div>
         </section>
     </div>
 
     <div class="two-column">
         <section>
             <h2>9. Which Brands Receive the Most Reviews?</h2>
-            <p class="desc">This chart shows which beauty brands have the highest total review counts.</p>
-            <div class="chart-box" id="chart9"></div>
-            <p class="insight">
-                Review volume can indicate stronger consumer engagement, product visibility,
-                or greater brand presence in the Malaysian beauty market.
+
+            <p class="desc">
+                This ranking chart compares beauty brands by total review count. Review volume can
+                indicate brand visibility, consumer engagement and market presence.
             </p>
+
+            <div class="chart-box" id="chart9"></div>
+
+            <div class="insight-card">
+                <strong>Insight:</strong> Brands with higher review counts may have stronger consumer
+                awareness, wider availability or more active online product discussion.
+            </div>
         </section>
 
         <section>
             <h2>10. Product Price Spread by Category</h2>
-            <p class="desc">This box plot shows how product prices vary within each beauty product category.</p>
-            <div class="chart-box" id="chart10"></div>
-            <p class="insight">
-                Price spread shows whether categories contain mostly affordable products,
-                premium products, or a wide range of price points.
+
+            <p class="desc">
+                This box plot shows how product prices vary within each beauty product category.
+                It helps compare affordability, premium positioning and price range differences.
             </p>
+
+            <div class="chart-box" id="chart10"></div>
+
+            <div class="insight-card">
+                <strong>Insight:</strong> Price spread shows whether a category contains mostly
+                affordable products, premium products or a wide range of price points.
+            </div>
         </section>
     </div>
 
     <section class="metadata-box" id="metadata">
         <h2>Metadata</h2>
 
-        <p class="source-text">Domain: Malaysian skincare and beauty consumer behaviour.</p>
+        <div class="metadata-grid">
+            <p>
+                <strong>Domain:</strong><br>
+                Malaysian skincare and beauty consumer behaviour.
+            </p>
 
-        <p class="source-text">
-            Data used: Malaysian skincare survey data, beauty product data,
-            and regional location data.
-        </p>
+            <p>
+                <strong>Who:</strong><br>
+                Malaysian skincare consumers, beauty retailers, marketers and product developers.
+            </p>
 
-        <p class="source-text">
-            Visual idioms used: bar chart, donut chart, scatter plot, heatmap,
-            proportional symbol map, stacked bar chart, horizontal bar chart,
-            line chart, and box plot.
-        </p>
+            <p>
+                <strong>What:</strong><br>
+                Skin concerns, purchase channels, categories, prices, ratings, reviews and regional spending.
+            </p>
 
-        <p class="source-text">
-            How it works: the visualisation compares skin concerns, product categories,
-            shopping platforms, prices, ratings, and regional spending patterns using
-            coordinated colour scales, interactive tooltips, smooth navigation buttons,
-            and a clickable legend in the scatter plot.
-        </p>
-    </section>
+            <p>
+                <strong>Why:</strong><br>
+                To understand what influences skincare purchases and where stronger market demand appears.
+            </p>
 
-    <section class="conclusion">
-        <h2>Conclusion</h2>
+            <p>
+                <strong>How:</strong><br>
+                Data is transformed using bubble charts, donut charts, lollipop charts, heatmaps,
+                geographic maps, stacked bars, line charts and box plots.
+            </p>
 
-        <p class="source-text">
-            Overall, the dashboard shows that skincare behaviour in Malaysia is shaped by
-            personal skin concerns, shopping convenience, product type, and regional spending
-            differences. Consistent colour scales help users compare concerns and product
-            categories across multiple charts.
-        </p>
+            <p>
+                <strong>Interaction:</strong><br>
+                Hover tooltips allow users to inspect values without overcrowding the page.
+            </p>
+        </div>
     </section>
 
     <footer>
-        <p>Created by: Rehma Rowshan Rahman | FIT2179 Data Visualisation 2 | 2026</p>
+        <p>
+            Created by: Rehma Rowshan Rahman |
+            FIT2179 Data Visualisation 2 | 2026
+        </p>
     </footer>
 
-    <script src="charts.js"></script>
+    <script src="js/charts.js"></script>
 
 </body>
 
